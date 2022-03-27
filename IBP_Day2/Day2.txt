@@ -1,0 +1,32 @@
+************************************************* Day 2
+
+Flow of stocks  : 
+1. Company listed their stocks to 'stock exchange'
+2. Stock exchange provide stock information to broker
+3. Users (Individual, Companies, organisations, FII, DII) they can buy/sell the company stocks.
+4. After buying/selling the stocks, transaction information provided to stock exchange.
+5. Stock exchange provide that information to company.
+
+Note  : 
+if users buy company's stocks then stock price goes up.
+if users sell company's stocks then stock price goes down.
+
+------------------------------------------------
+
+Modules : 
+- Trading account [Mandatory]
+- Dmat account [Mandatory]
+- Mutual fund account 
+- Banking services 
+- HelpDesk 
+
+------------------------------------------------
+
+Trading Account : 
+1. Dashboard
+- We get the information about funds. (Available margin, used margin and Available balance)
+- Watchlist (you can add the stocks, future, option to track the price)
+
+2. Orders
+- Buy/sell orders getting displayed.
+- Status of order getting displayed (Completed, rejected, pending, canceled) 

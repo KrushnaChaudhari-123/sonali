@@ -1,0 +1,38 @@
+Day 1
+
+Domain : banking domain
+
+Module : Stock market
+
+UI/Application : Zerodha  (This name should not be disclosed)
+---------------------------
+Plan Of action : 
+1. Trading  :  Buying, selling, investment
+2. Trading segments : Equity, Commodity, Currency
+3. Order tyes : CNC (Cash n carry) and MIS (margin intraday squareoff)
+4. Trading Type : Intraday, Positional Trading, Swing Trading, Investment 
+5. Sanity testing, Integration testing, End to end flow
+
+---------------------------
+
+Stock market : 
+1. Who invest in stock market : Individuals, Organisations, Brokers, FII, DII, HNI
+2. What is stock market :  Buyers-sellers, public funding, earn the profit.
+-> Stock market is the place where buying/selling of the stocks are properly managed by the brokers. Company listed their stocks to get the funding from public. Stock exchanges are the interface between Brokers and company.
+
+---------------------------
+
+Segments : 
+Stocks (Scripts),
+Future  : Short selling, Buying
+Option  : Call and Put, Short call and put
+
+---------------------------
+
+Pre-requisite : 
+1. Bank Account 
+2. Dmat Account (Broker :)
+e.g : Zerodha, Upstocks, Groww, Angel Broking, ICICI, IIFL, ShareKhan, 5paisa
+3. Trading Account (User Id, Password)
+
+---------------------------

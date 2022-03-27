@@ -1,0 +1,28 @@
+Day3
+
+3. Holdings
+- Stocks which kept more than one day are getting displayed under the holdings.
+- Profit/loss of respective stock is getting displayed.
+- Profit/loss : Day wise and Overall is getting displayed
+
+
+4. Positions
+- Same day buying/selling, completed orders are getting displayed.
+- Day wise profit/loss is getting displayed.
+
+
+5. Funds
+- Available funds information is getting displayed.
+- Add Funds and Withdraw option is getting displayed.
+
+
+6. profile 
+- User information is getting displayed under the profile.
+- For e.g email, pan, phone number, name, bank account
+
+7. Watchlist
+- Stocks which are listed under NSE and BSE
+- (If available) Options (Call : CE and Put : PE) with strike price are getting displayed.
+-Future with months are getting displayed. (Current month, next month and next to next month)
+Expiry : Last week of month (th)
+- Price of stocks, options and future are getting displayed
